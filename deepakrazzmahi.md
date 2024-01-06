@@ -2,7 +2,7 @@
 - 👀 I’m interested in movie
 - 🌱 I’m currently learning book
 - 💞️ I’m looking to collaborate in friends 
-- 📫 How to reach me success
+- 📫 How to reach  success
 
 <!---
 Deepakrazzmahi/Deepakrazzmahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
